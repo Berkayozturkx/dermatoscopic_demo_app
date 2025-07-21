@@ -1,4 +1,4 @@
-# 🔬 Dermatoscopic Image Classification Demo
+# 🔬 Dermatoskopik Görsel Sınıflandırma Uygulaması Demo
 
 Bu Streamlit uygulaması, dermatoskopik görüntüleri 7 farklı cilt lezyonu kategorisine sınıflandırmak için eğitilmiş DenseNet121 modelini kullanır.
 
